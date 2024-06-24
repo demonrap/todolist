@@ -1,36 +1,10 @@
-﻿namespace TodoList
+﻿using TodoList.Enums;
+using TodoList.Interfaces;
+using TodoList.Repository;
+
+namespace TodoList
 {
-    // <------- Gianpiero
-
-    /// <summary>Tipologie di scelte conosciute.</summary>
-    internal enum EChoices
-    {
-        CHOICE_CREATE = 1,
-        CHOICE_DELETE,
-        CHOICE_DISPLAY,
-        CHOICE_QUIT,
-    }
-
-    /// <summary>Interfaccia che rappresenta la funzionalità di un elemento nella lista.</summary>
-    internal interface IActivity
-    {
-        public string GetMessage();
-
-        public void SetMessage(string message);
-    }
-
-    /// <summary>Implementazione di un elemento della lista.</summary>
-    internal class Activity : IActivity
-    {
-        private string Message = "";
-
-        public string GetMessage() { return Message; }
-
-        public void SetMessage(string message)
-        {
-            Message = message;
-        }
-    }
+    // <------- Gianpiero 
 
     /// <summary>Elemento della lista del menu.</summary>
     /// <param name="Key">Numero da digitare per la scelta.</param>
@@ -116,6 +90,7 @@
             Console.WriteLine("Grazie per aver usato la To-Do List. Arrivederci!");
         }
 
+        /// <summary>Mostra la lista delle attività su schermo.</summary>
         private static void ShowItems()
         {
             for (int i = 0; i < Activities.Count; i++)
