@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ToDoList/FileContentIndex
+/bin/Debug/net6.0
+/obj
+/.vs/ToDoList/v17
