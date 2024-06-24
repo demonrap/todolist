@@ -1,0 +1,14 @@
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\bin\Debug\net6.0\ToDoList_Avanzato.exe
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\bin\Debug\net6.0\ToDoList_Avanzato.deps.json
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\bin\Debug\net6.0\ToDoList_Avanzato.runtimeconfig.json
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\bin\Debug\net6.0\ToDoList_Avanzato.dll
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\bin\Debug\net6.0\ToDoList_Avanzato.pdb
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ToDoList_Avanzato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ToDoList_Avanzato.AssemblyInfoInputs.cache
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ToDoList_Avanzato.AssemblyInfo.cs
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ToDoList_Avanzato.csproj.CoreCompileInputs.cache
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ToDoList_Avanzato.dll
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\refint\ToDoList_Avanzato.dll
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ToDoList_Avanzato.pdb
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ToDoList_Avanzato.genruntimeconfig.cache
+C:\Informatica\NEXUS\Saverio Belviso\ToDoList_Avanzato\obj\Debug\net6.0\ref\ToDoList_Avanzato.dll
