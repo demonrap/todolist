@@ -1,0 +1,14 @@
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\bin\Debug\net6.0\ToDoListEx.exe
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\bin\Debug\net6.0\ToDoListEx.deps.json
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\bin\Debug\net6.0\ToDoListEx.runtimeconfig.json
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\bin\Debug\net6.0\ToDoListEx.dll
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\bin\Debug\net6.0\ToDoListEx.pdb
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ToDoListEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ToDoListEx.AssemblyInfoInputs.cache
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ToDoListEx.AssemblyInfo.cs
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ToDoListEx.csproj.CoreCompileInputs.cache
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ToDoListEx.dll
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\refint\ToDoListEx.dll
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ToDoListEx.pdb
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ToDoListEx.genruntimeconfig.cache
+C:\Users\lotit\OneDrive\Desktop\ITS\.Net LINKS\ToDoListEx\ToDoListEx\obj\Debug\net6.0\ref\ToDoListEx.dll
